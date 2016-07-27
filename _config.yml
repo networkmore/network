@@ -6,16 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: آموزش شبکه های کامپیوتری
+email: i@a69.ir
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  این یک آموزش برای آنهایی است که برای اولین بار با مفاهیم شبکه برخورد می کنند.
+  در این آموزش سعی خواهیم کرد مفاهیم را به ساده ترین نحوه ممکن مطرح نماییم.
+  در این آموزش سعی خواهد شد تا حد ممکن فارغ از هرنوع نرم افزار و سیستم عامل به بررسی کارکرد و رفتار شبکه های کامپیوتری اشاره کنیم.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://netwokmore.ir" # the base hostname & protocol for your site
+twitter_username: aminfar69
+github_username:  a69
 
 # Build settings
 markdown: kramdown
