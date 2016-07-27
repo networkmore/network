@@ -8,10 +8,12 @@ permalink: /about/
 
 از این که در این آموزش ما را همراهی مینمایید. از اینکه ما را در تصحیح اشکالات و توسعه این آموزش یار مینمایید سپاس گزاریم.
 
-شما می توانید سورس این آموزش را از ظریق لینک ذیل مشاهده نمایید.
+شما می توانید محتوا این آموزش را از طریق لینک ذیل مشاهده نمایید.
+
 {% include icon-github.html username="networkmore" %} /
-[jekyll-new](https://github.com/networkmore/network)
+[network](https://github.com/networkmore/network)
 
 مدیریت محتوا این سرویس از طریق jekyll صورت می گیرد.
+
 {% include icon-github.html username="jekyll" %} /
 [jekyll](https://github.com/jekyll/jekyll)
