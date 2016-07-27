@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: درباره سایت
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+این یک آموزش برای آنهایی است که برای اولین بار با مفاهیم شبکه برخورد می کنند. در این آموزش سعی خواهیم کرد مفاهیم را به ساده ترین نحوه ممکن مطرح نماییم. در این آموزش سعی خواهد شد تا حد ممکن فارغ از هرنوع نرم افزار و سیستم عامل به بررسی کارکرد و رفتار شبکه های کامپیوتری اشاره کنیم.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+از این که در این آموزش ما را همراهی مینمایید. از اینکه ما را در تصحیح اشکالات و توسعه این آموزش یار مینمایید سپاس گزاریم.
 
-You can find the source code for Jekyll at
+شما می توانید سورس این آموزش را از ظریق لینک ذیل مشاهده نمایید.
+{% include icon-github.html username="networkmore" %} /
+[jekyll-new](https://github.com/networkmore/network)
+
+مدیریت محتوا این سرویس از طریق jekyll صورت می گیرد.
 {% include icon-github.html username="jekyll" %} /
 [jekyll](https://github.com/jekyll/jekyll)
