@@ -110,8 +110,13 @@ body{
     margin-bottom: $spacing-unit / 2;
 }
 
-.contact-list,
+.contact-list{
+    list-style: none;
+    margin-right: 0;
+}
+
 .social-media-list {
+    direction: ltr;
     list-style: none;
     margin-right: 0;
 }
@@ -242,4 +247,7 @@ body{
             font-size: 18px;
         }
     }
+}
+.highlight {
+  direction: ltr;
 }
