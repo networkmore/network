@@ -2,7 +2,7 @@
 layout: post
 title:  "درس اول-آشنایی"
 date:   2016-07-22 04:53:14 +0430
-categories: jekyll update
+categories: lecture
 ---
 شبکه های کامپیوتری
 ===
